@@ -1,2 +1,8 @@
-hi i am joshnie
-hello this is mohana priya 
+#to find the largest among two numbers:
+algorithm:
+-get two integers from users as input
+-read those integers
+-if a greater than b,print a is largest
+-if b greater than a,print b is largest
+-else print,both are equal
+
